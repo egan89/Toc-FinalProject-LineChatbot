@@ -19,16 +19,13 @@ chatbot做這個功能。
 
 正常使用畫面：
 
-![](media/image1.png){width="5.763888888888889in"
-height="3.277083333333333in"}
+![image](https://imgur.com/04YnMU0.png)
 
 防呆：
 
-![](media/image2.png){width="5.763888888888889in"
-height="3.6708333333333334in"}
+![image](https://imgur.com/bLRdaBF.png)
 
-![](media/image3.jpg){width="5.763888888888889in"
-height="1.9930555555555556in"}
+![image](https://imgur.com/IRqlPAQ.png)
 
 **Fsm State 說明：**
 
