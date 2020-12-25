@@ -25,6 +25,7 @@ chatbot做這個功能。
 
 ![image](https://imgur.com/bLRdaBF.png)
 
+show fsm：
 ![image](https://imgur.com/IRqlPAQ.png)
 
 **Fsm State 說明：**
