@@ -89,7 +89,7 @@ def callback():
         if response == False:
             if machine.state == "user":
                 if event.message.text.lower() == 'fsm':
-                    send_image_message(event.reply_token, 'https://drive.google.com/file/d/1CAtrQR0leEkBFqfNoaZAvXcUX6UMWaWM/view?usp=sharing')
+                    send_image_message(event.reply_token, 'https://imgur.com/UfIk8cs.png')
                 else:
                     send_text_message(event.reply_token, "請正確輸入兩種貨幣 ex: TWD JPY")
             elif machine.state == "input_2currency":
